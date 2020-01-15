@@ -1,7 +1,7 @@
 # A Simple Musical Instrument Classifier
 
 The purpose of this work is to show and compare the difference kind of techniques to recognize a musical instrument from the single-note sounds.
-  In proposed work, a Support Vector Machines, a Random Forest and k-nearest neighbors are used for the musical instrument recognition accomplishment.
+  In proposed work, a Support Vector Machines, a Random Forest, k-nearest neighbors and Convolution Neural Networks are used for the musical instrument recognition accomplishment.
   The models are trained on fixed-length music with a labeled instrument.
   
 ## Dataset
